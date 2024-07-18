@@ -1,0 +1,21 @@
+#photo {
+    max-width: 225px;
+    border-radius: 5px;
+}
+
+.sidebar {
+    border-right: 1px solid #ddd;
+    padding: 20px;
+    height: 100vh;
+}
+.social-links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #fff;
+}
+.main-content {
+    padding: 20px;
+}
